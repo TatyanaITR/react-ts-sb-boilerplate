@@ -1,7 +1,10 @@
-import "./App.module.css";
-
 function App() {
-  return <></>;
+  return (
+    <>
+      <h1>Hello!</h1>
+      <p>This is the base react-ts boilerplate</p>
+    </>
+  );
 }
 
 export default App;
